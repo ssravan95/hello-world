@@ -1,2 +1,5 @@
 # hello-world
-starting new repository
+
+Hello!
+
+I learn, write code with interest 
